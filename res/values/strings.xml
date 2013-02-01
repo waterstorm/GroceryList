@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grocery List</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_milk">Milk</string>
+    <string name="button_bread">Bread</string>
+    <string name="button_egg">Egg</string>
+    <string name="button_addNew">Add item</string>
+    <string name="title_activity_second">New Item</string>
+    <string name="textview_title">Grocery shopping list</string>
+    <string name="edittext_hint">Enter a new item</string>
+    <string name="button_pickAColor">Pick a color</string>
+    <string name="button_enter">OK</string>
+    <string name="button_back">Cancel</string>
+    <string name="message">Item name can\'t be empty!</string>
+    <string name="button_clear">Clear all</string>
+
+</resources>
